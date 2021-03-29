@@ -1,0 +1,11 @@
+Snapshot      snapshot_xxx
+HaloPartsFile amiga_particles
+HaloFile      amiga_halos
+HaloSubFile   amiga_substructure
+GUL_IN_CM     3.085678e21
+GUV_IN_CM_PER_S 1e5
+GUM_IN_G      1.989e43
+DE            0
+DE_W0         -1.0
+DE_WA         0.0
+N_Halo_Files  24
